@@ -1,0 +1,3 @@
+# 試遊の段階なので検索エンジンに載せない。一般に公開するときは Disallow を外す（docs/DEPLOY.md）
+User-agent: *
+Disallow: /
