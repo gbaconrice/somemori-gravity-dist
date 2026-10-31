@@ -1,1688 +1,1688 @@
 {
-  "release": "20261031-3",
+  "release": "20261031-4",
   "files": [
     {
-      "path": "releases/20261031-3/assets/board/great_vat.webp",
+      "path": "releases/20261031-4/assets/board/great_vat.webp",
       "bytes": 61444,
       "sha256": "6e54762195f889588daf54ac6d0ae3704ec17833c4a00b901db5918a464e7239"
     },
     {
-      "path": "releases/20261031-3/assets/board/sluice.webp",
+      "path": "releases/20261031-4/assets/board/sluice.webp",
       "bytes": 36686,
       "sha256": "a19a026e837e7a49669cd43dfa3abf0ad5a75da93948b148eb22828c21d2f7ff"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/aburagami.webp",
+      "path": "releases/20261031-4/assets/enemies/aburagami.webp",
       "bytes": 7246,
       "sha256": "69fb810ab1f3f41c9c573db35adcd7e652e4bc696cce21a176fa715636e3260e"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/aikui.webp",
+      "path": "releases/20261031-4/assets/enemies/aikui.webp",
       "bytes": 6772,
       "sha256": "e214178042d6e34776cbc13908e13ed165456a7f951fc9528ca3176e34639936"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/atsude.webp",
+      "path": "releases/20261031-4/assets/enemies/atsude.webp",
       "bytes": 9434,
       "sha256": "ed19bc42569761793d44b145db6c97f50c60d42f80fe10647478a7ac193a3071"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/ayanuno.webp",
+      "path": "releases/20261031-4/assets/enemies/ayanuno.webp",
       "bytes": 12860,
       "sha256": "5319865470c509c78d21e71c6c0060a643dc50c7023425c4dc45f715dfdaaa18"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/bangasa.webp",
+      "path": "releases/20261031-4/assets/enemies/bangasa.webp",
       "bytes": 18674,
       "sha256": "0b3dfc0f7fe99fea9403ea0ab7c5e60ae5d0e98adaf24cf3b49623bd669524ab"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/bangasa_open.webp",
+      "path": "releases/20261031-4/assets/enemies/bangasa_open.webp",
       "bytes": 30172,
       "sha256": "f23610332830f6178951a37bb1f3394395b75940e99f924a435aff77207f087b"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/fukurawata.webp",
+      "path": "releases/20261031-4/assets/enemies/fukurawata.webp",
       "bytes": 9770,
       "sha256": "76e44e27d59eefdd9b2e7a675946c228e0bfb3d9e6c2b10e413478f6fc22889e"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/fukurawata_soaked.webp",
+      "path": "releases/20261031-4/assets/enemies/fukurawata_soaked.webp",
       "bytes": 7056,
       "sha256": "536fd1d2729b05fadac8fef0e08b57c795efe6eec60485393cb24a22d7f5810e"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/futatsununo.webp",
+      "path": "releases/20261031-4/assets/enemies/futatsununo.webp",
       "bytes": 10658,
       "sha256": "dec35dd991e23db43fcdd20ced38be687be4dcecb8c0642f77be3a3faa0a91ac"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/hagirebune.webp",
+      "path": "releases/20261031-4/assets/enemies/hagirebune.webp",
       "bytes": 8468,
       "sha256": "fe05d1e0764d9874a7b914c89e422c85c82e45488180428ad84d9cd38733f7f8"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/hanarefu.webp",
+      "path": "releases/20261031-4/assets/enemies/hanarefu.webp",
       "bytes": 23190,
       "sha256": "364aaa5d2aed26fff2dd5ccf541837c7ef2fb7e656206cc93ca869071348a297"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/hanarefu_open.webp",
+      "path": "releases/20261031-4/assets/enemies/hanarefu_open.webp",
       "bytes": 20010,
       "sha256": "3d58d7e332e41104aed10155d2737f826f0b5f474b8227b264603a0e9efac12d"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/harinuno.webp",
+      "path": "releases/20261031-4/assets/enemies/harinuno.webp",
       "bytes": 7634,
       "sha256": "f8b2b51a40ce6e191e9899a49272b5b6d60fe3bba85728ef06c74fd4e6b50c87"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/harinuno_slack.webp",
+      "path": "releases/20261031-4/assets/enemies/harinuno_slack.webp",
       "bytes": 7854,
       "sha256": "bf2f5a4dec4883ae90baa5cbd56a5f1caaabe779fa3c74fa6b57c69d548fa12e"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/hashiri.webp",
+      "path": "releases/20261031-4/assets/enemies/hashiri.webp",
       "bytes": 10612,
       "sha256": "9d1265a024db5f8bcd259e69cc7751e9c6dcc5fe6b095e0b8898c5e45a834ca9"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/hikifu.webp",
+      "path": "releases/20261031-4/assets/enemies/hikifu.webp",
       "bytes": 8904,
       "sha256": "f9b26767f759e8138f63549f5351cab98870140c913d07a7afdb3771e210370d"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/hodokefu.webp",
+      "path": "releases/20261031-4/assets/enemies/hodokefu.webp",
       "bytes": 6688,
       "sha256": "6bf37158b29884228fa394d08f10413222a9e880e4bdf69aebc3c93b40033cc1"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/hoguredama.webp",
+      "path": "releases/20261031-4/assets/enemies/hoguredama.webp",
       "bytes": 11918,
       "sha256": "a02b83ca4d6d1624fbe40c3317b20d29527679203dbbb3c5fb86e28962c4c645"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/hotsure.webp",
+      "path": "releases/20261031-4/assets/enemies/hotsure.webp",
       "bytes": 9626,
       "sha256": "f9b7302a8aba0a4dcdfc9b7b90c7735f61570c043cde30e195c8e09d20985dda"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/irogaeshi.webp",
+      "path": "releases/20261031-4/assets/enemies/irogaeshi.webp",
       "bytes": 11490,
       "sha256": "1d772c146d1101ccc52421c96779d39a74bcc6342489a149aa65ccc782461454"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/itobukuro.webp",
+      "path": "releases/20261031-4/assets/enemies/itobukuro.webp",
       "bytes": 11582,
       "sha256": "73e7931b957ffd429535a532d24a1ff525274856265a196987866a2bb807b00b"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/itokuzu.webp",
+      "path": "releases/20261031-4/assets/enemies/itokuzu.webp",
       "bytes": 5776,
       "sha256": "df49264fbc97548a544aa562380c26524fd483ef33a05f2b493669acb3584f16"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/itomamori.webp",
+      "path": "releases/20261031-4/assets/enemies/itomamori.webp",
       "bytes": 12262,
       "sha256": "4dc60ee6e700cc23dabe4dba07f23e876c7953b76e2b3bb4274b791a5ef4b89c"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/kaeshiobi.webp",
+      "path": "releases/20261031-4/assets/enemies/kaeshiobi.webp",
       "bytes": 10968,
       "sha256": "fdc15e40d5f9bef28df263fef2f5207e2772951e68eb51a09e9a052b41b86e98"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/kamitobi.webp",
+      "path": "releases/20261031-4/assets/enemies/kamitobi.webp",
       "bytes": 8230,
       "sha256": "adb4a218b09850cf5be4cc5c67ca3f204fe5e733d425f8cbb149159ffd16ba36"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/karagoromo.webp",
+      "path": "releases/20261031-4/assets/enemies/karagoromo.webp",
       "bytes": 11862,
       "sha256": "6da43391811da8ea32965dded01dbeb961e9170acce98796ed310481da7eee5a"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/kasanegami.webp",
+      "path": "releases/20261031-4/assets/enemies/kasanegami.webp",
       "bytes": 9892,
       "sha256": "ce6e7b2d13b6bc306b6df83d45c3bcfea8f46cd729eb99d2c871afcab3732fd4"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/kasuri.webp",
+      "path": "releases/20261031-4/assets/enemies/kasuri.webp",
       "bytes": 9416,
       "sha256": "c54e9f3a348ab66134e9b2bf84454873dde73d3b6335f6f057e956b805b125f6"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/kawakifu.webp",
+      "path": "releases/20261031-4/assets/enemies/kawakifu.webp",
       "bytes": 7702,
       "sha256": "754031eb1ba647e5810ce5056f01990f19a36729457a4e7fd6912aa729c5b937"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/kedama.webp",
+      "path": "releases/20261031-4/assets/enemies/kedama.webp",
       "bytes": 8762,
       "sha256": "50555de9e347b991478c8cb143b5e651f0f3541069f792219b786af21d5e51b8"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/kishihai.webp",
+      "path": "releases/20261031-4/assets/enemies/kishihai.webp",
       "bytes": 8020,
       "sha256": "31aa60a31c8db656ddc80d118ed614a4f8068aa25be8ffd681e5e9591962c9f7"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/mureito.webp",
+      "path": "releases/20261031-4/assets/enemies/mureito.webp",
       "bytes": 19466,
       "sha256": "1388806cfd762dbe08a17c63fdd1f67a0a1725de4488f583b8f53e62487dbbbc"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/mureito_grouped.webp",
+      "path": "releases/20261031-4/assets/enemies/mureito_grouped.webp",
       "bytes": 18044,
       "sha256": "9b2a74e05ab026d31c18cdae0c0b8f9e5b93c32bdcff4ed551d55415bee1cdd8"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/musubifu.webp",
+      "path": "releases/20261031-4/assets/enemies/musubifu.webp",
       "bytes": 6598,
       "sha256": "8dad2e41e17437728c383dd30b5260eab71397a95ce3b3c8d33f923200663678"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/musubifu_loose.webp",
+      "path": "releases/20261031-4/assets/enemies/musubifu_loose.webp",
       "bytes": 7726,
       "sha256": "7c4e9b9a4c264a6a51a65cbbc17bbbe776f9afbb702a0dbfcb509aa9c95e2146"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/nobori.webp",
+      "path": "releases/20261031-4/assets/enemies/nobori.webp",
       "bytes": 7164,
       "sha256": "1825d12c9399bf026920cde6cd71997481059007d68fd2c0b3a876153dbeed0a"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/noriboki.webp",
+      "path": "releases/20261031-4/assets/enemies/noriboki.webp",
       "bytes": 5666,
       "sha256": "2edbbbe7f39cc98d29eccc42d08d14799c71fa6001f991dff370b6dc61f3bf5c"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/nukeito.webp",
+      "path": "releases/20261031-4/assets/enemies/nukeito.webp",
       "bytes": 7760,
       "sha256": "15ae773ef1fd385e2c33f279d821d11d5751ad1a257f1d2e03fab9c2c97b506c"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/oomaki.webp",
+      "path": "releases/20261031-4/assets/enemies/oomaki.webp",
       "bytes": 33098,
       "sha256": "db6d7a68e1d0e7cd70396b18adec171f10e5f7288f4399c3cda3fff6aca61954"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/orifu.webp",
+      "path": "releases/20261031-4/assets/enemies/orifu.webp",
       "bytes": 8606,
       "sha256": "c5e951b4cbe06ef8cfdb693a64e25905aeeebd155aed4ad52e19dea6996650a9"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/orifu_open.webp",
+      "path": "releases/20261031-4/assets/enemies/orifu_open.webp",
       "bytes": 10594,
       "sha256": "8c3b6f5388cf587a1cbfa63bc7a12a94af5e6688e38aeba596e823638bd00738"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/sarashi.webp",
+      "path": "releases/20261031-4/assets/enemies/sarashi.webp",
       "bytes": 5586,
       "sha256": "774ec2dda7c6cd385e3a05d2774c91916e52d2ce5be478ab0b121b61b1bbdb2b"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/sasoifu.webp",
+      "path": "releases/20261031-4/assets/enemies/sasoifu.webp",
       "bytes": 7996,
       "sha256": "3e436de4ee8de6d3721e0eb69fff00c34378dd0661b99cc3f25f6d13f7f0e539"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/sewashifu.webp",
+      "path": "releases/20261031-4/assets/enemies/sewashifu.webp",
       "bytes": 11404,
       "sha256": "05f61a777d0f6be977434b9b306253395cfa1b9e560107f0133c3fbed24f8765"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/sewashifu_hurt.webp",
+      "path": "releases/20261031-4/assets/enemies/sewashifu_hurt.webp",
       "bytes": 10944,
       "sha256": "bb38ee03e5ae5f7c0b8d3be03e19b8a83079aad6c1386ead0385c7892c33908e"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/sha.webp",
+      "path": "releases/20261031-4/assets/enemies/sha.webp",
       "bytes": 9282,
       "sha256": "ed034f9a1e1ba85d4b391bc810bc8b8e6d791dff47f114ccb46f901d433fc6f0"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/shimi.webp",
+      "path": "releases/20261031-4/assets/enemies/shimi.webp",
       "bytes": 5696,
       "sha256": "58c4360cd56aca95e9ed4905b882c4e5c10be2ef47ba90c4832c794bb8786823"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/shinshi.webp",
+      "path": "releases/20261031-4/assets/enemies/shinshi.webp",
       "bytes": 29532,
       "sha256": "b7119d7d111058c03d7642868ff5d753b3db7ce6294a04490415900af67d0846"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/shiroga.webp",
+      "path": "releases/20261031-4/assets/enemies/shiroga.webp",
       "bytes": 8076,
       "sha256": "a85e740b79a99c0af8b4849099926fd6b1625108a8680b9beb4b6195f68c1ce0"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/shiromuku_bare.webp",
+      "path": "releases/20261031-4/assets/enemies/shiromuku_bare.webp",
       "bytes": 82490,
       "sha256": "09a4cdfd708ce933187fca164ddf499a8cdc4ea2cb2567ead159bbf305b8ed4e"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/shiromuku_body.webp",
+      "path": "releases/20261031-4/assets/enemies/shiromuku_body.webp",
       "bytes": 50556,
       "sha256": "c42c76b0de9b030f17c1dd78db06982a137dddb5383166142171b181d1ce87da"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/shirotae_body.webp",
+      "path": "releases/20261031-4/assets/enemies/shirotae_body.webp",
       "bytes": 48852,
       "sha256": "3d8420c28f6ef338459cd12b04e098674de46c15a8170564d323803bde9bf9ea"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/shirotae_wing.webp",
+      "path": "releases/20261031-4/assets/enemies/shirotae_wing.webp",
       "bytes": 98338,
       "sha256": "83a4bfecb70ce62fb9d2e4cb5c9c3092dbb672710fc39ed9fe9e5c118f54b035"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/somebukuro.webp",
+      "path": "releases/20261031-4/assets/enemies/somebukuro.webp",
       "bytes": 9304,
       "sha256": "c4dbbe578c9afd16b0801d079790df6aee7e95f32ab3643bbc1b3c8bd5389bba"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/sumidomefu.webp",
+      "path": "releases/20261031-4/assets/enemies/sumidomefu.webp",
       "bytes": 9168,
       "sha256": "64552b2616d33537ee09704fc08045c3f4933fef50cbbc27f308a927c312117f"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/suminuno.webp",
+      "path": "releases/20261031-4/assets/enemies/suminuno.webp",
       "bytes": 7984,
       "sha256": "6290ba3c2edd417f81391affdd3fa52d6d03d19aa0cb7efb6c0775085f383a53"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/tobihi.webp",
+      "path": "releases/20261031-4/assets/enemies/tobihi.webp",
       "bytes": 5938,
       "sha256": "eede14bf691155e507e5aec4ee67eef52e49191f8036f00150b5bfe0b45f526e"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/tsugihagi.webp",
+      "path": "releases/20261031-4/assets/enemies/tsugihagi.webp",
       "bytes": 41200,
       "sha256": "f6be53aaf540e3193f824cd627ef815906e5fb8e221809e8c1813463f9678e01"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/tsugimefu.webp",
+      "path": "releases/20261031-4/assets/enemies/tsugimefu.webp",
       "bytes": 10326,
       "sha256": "6fd53053bb42950d57842b26fff70cffaa0b4ccb0b830bbeb4582e3761235dcf"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/tsukuroite.webp",
+      "path": "releases/20261031-4/assets/enemies/tsukuroite.webp",
       "bytes": 10880,
       "sha256": "18308afebbdbd4c08c66678b20b89b6f975e963605e9dfacc50543ac01b029eb"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/uketomefu.webp",
+      "path": "releases/20261031-4/assets/enemies/uketomefu.webp",
       "bytes": 12236,
       "sha256": "45d8923bd81a0008d1b7200da5cd74922b8192774330724423f0a818b6ca9fe2"
     },
     {
-      "path": "releases/20261031-3/assets/enemies/watabokori.webp",
+      "path": "releases/20261031-4/assets/enemies/watabokori.webp",
       "bytes": 10190,
       "sha256": "f9c7922fd2277c6ccdce72277ba8912079636cb9c98a72281363d79b22579172"
     },
     {
-      "path": "releases/20261031-3/assets/events/abyss.webp",
+      "path": "releases/20261031-4/assets/events/abyss.webp",
       "bytes": 153114,
       "sha256": "cd68a24c19f1c53407ce8b53f2cb0786811e3f867acfc8b34a182f65a217dd7c"
     },
     {
-      "path": "releases/20261031-3/assets/events/amagoi.webp",
+      "path": "releases/20261031-4/assets/events/amagoi.webp",
       "bytes": 134856,
       "sha256": "c1c35e82582adbe4c29dc16f1b143d4096af9cab748ec25049f3e35f5283fb4d"
     },
     {
-      "path": "releases/20261031-3/assets/events/apprentice.webp",
+      "path": "releases/20261031-4/assets/events/apprentice.webp",
       "bytes": 108930,
       "sha256": "5e36c46e3279cc6c22390335bd7f938dc4197617fe417c3ac2d3f74e047a8b41"
     },
     {
-      "path": "releases/20261031-3/assets/events/exchange.webp",
+      "path": "releases/20261031-4/assets/events/exchange.webp",
       "bytes": 139430,
       "sha256": "3ab2d08fee1b5f7c4dd0e3560ac4044e7c1c08fbdd4642a588be46f8dcb72e11"
     },
     {
-      "path": "releases/20261031-3/assets/events/fermentation.webp",
+      "path": "releases/20261031-4/assets/events/fermentation.webp",
       "bytes": 113408,
       "sha256": "bac569b7febd69be59b3d231d7c962e7d0b0bf97f1de2fd56e2f83359540765c"
     },
     {
-      "path": "releases/20261031-3/assets/events/fukawake.webp",
+      "path": "releases/20261031-4/assets/events/fukawake.webp",
       "bytes": 115488,
       "sha256": "be9eb4917917fc48784db315fb0317c2011763f577c7828601bfee810d6328a0"
     },
     {
-      "path": "releases/20261031-3/assets/events/futairo.webp",
+      "path": "releases/20261031-4/assets/events/futairo.webp",
       "bytes": 151058,
       "sha256": "73d9164b622764bc42a606d153a02da88c9d3d5d0534b2f520b0417a10f88e48"
     },
     {
-      "path": "releases/20261031-3/assets/events/gamble.webp",
+      "path": "releases/20261031-4/assets/events/gamble.webp",
       "bytes": 128364,
       "sha256": "99fc517a6bc504af05c99079d974b81ee92a9725cce620ca49de9f99129905d4"
     },
     {
-      "path": "releases/20261031-3/assets/events/hikitori.webp",
+      "path": "releases/20261031-4/assets/events/hikitori.webp",
       "bytes": 162130,
       "sha256": "d406f98c7b94318f407fdb2963e3bfcd4457bf65af66657d2decacbcbb611162"
     },
     {
-      "path": "releases/20261031-3/assets/events/itodonya.webp",
+      "path": "releases/20261031-4/assets/events/itodonya.webp",
       "bytes": 121484,
       "sha256": "4e6698e173e4d96734bd1ef1687a74e5d1e01898b02892e797bf181b65d43e8a"
     },
     {
-      "path": "releases/20261031-3/assets/events/junkshop.webp",
+      "path": "releases/20261031-4/assets/events/junkshop.webp",
       "bytes": 127182,
       "sha256": "b7ab95d200bfaa44f26d09552bcc364bb86cc63052e76886b88708ea666705b3"
     },
     {
-      "path": "releases/20261031-3/assets/events/kamegae.webp",
+      "path": "releases/20261031-4/assets/events/kamegae.webp",
       "bytes": 152386,
       "sha256": "ea4b66594fe3c2599da579872a9b9845247e8206e678e68be5835c1c5c30ea52"
     },
     {
-      "path": "releases/20261031-3/assets/events/katahori.webp",
+      "path": "releases/20261031-4/assets/events/katahori.webp",
       "bytes": 105820,
       "sha256": "7ad9e82a261ed73fc6ddb2b1321d1b69a636d167962a773f82bae2ad0f28efbd"
     },
     {
-      "path": "releases/20261031-3/assets/events/kurabarai.webp",
+      "path": "releases/20261031-4/assets/events/kurabarai.webp",
       "bytes": 142880,
       "sha256": "a1e1fc4824232864931f5e8bd8292d5237b3308a54c29042cf77ffe6b5593447"
     },
     {
-      "path": "releases/20261031-3/assets/events/matsuri.webp",
+      "path": "releases/20261031-4/assets/events/matsuri.webp",
       "bytes": 166148,
       "sha256": "f950eadcf43c1d5ccbff855769944fd51b9d545b506495cbecda242e8a5e1e78"
     },
     {
-      "path": "releases/20261031-3/assets/events/mononaoshi.webp",
+      "path": "releases/20261031-4/assets/events/mononaoshi.webp",
       "bytes": 120142,
       "sha256": "acdb6f4c8612efe69f8286fdab40035af3d8de683a23c1ab57a92f15a24ce232"
     },
     {
-      "path": "releases/20261031-3/assets/events/monya.webp",
+      "path": "releases/20261031-4/assets/events/monya.webp",
       "bytes": 137170,
       "sha256": "fa6fb9fc7052eae9f03d709f261914aaef2f4cfd7cf9a0efafa3e39183ff4b66"
     },
     {
-      "path": "releases/20261031-3/assets/events/nukemichi.webp",
+      "path": "releases/20261031-4/assets/events/nukemichi.webp",
       "bytes": 163988,
       "sha256": "78854418942759d872e027362b6a8a60ef109cdaf8bee833504fd65cf127d8f5"
     },
     {
-      "path": "releases/20261031-3/assets/events/peddler.webp",
+      "path": "releases/20261031-4/assets/events/peddler.webp",
       "bytes": 134524,
       "sha256": "e6593c92efe546743953b0f26d6b9cbb4ac3a016670c2615f978b56532923b89"
     },
     {
-      "path": "releases/20261031-3/assets/events/recolor.webp",
+      "path": "releases/20261031-4/assets/events/recolor.webp",
       "bytes": 136388,
       "sha256": "7889b3ad7b0c2555a4d41b52d2c90bc62462bc4a60f708523e551b1650ffa715"
     },
     {
-      "path": "releases/20261031-3/assets/events/redye.webp",
+      "path": "releases/20261031-4/assets/events/redye.webp",
       "bytes": 126138,
       "sha256": "c2a1192dcb8c81873d3ff320410cb36dd4be896b2a7f368bd65b729c07b86b0f"
     },
     {
-      "path": "releases/20261031-3/assets/events/shikomi.webp",
+      "path": "releases/20261031-4/assets/events/shikomi.webp",
       "bytes": 170100,
       "sha256": "a6f18c44a4c4b8fd3807532d393797683c735e10a35f93f1fe3d47b0b865d46c"
     },
     {
-      "path": "releases/20261031-3/assets/events/shiminoteire.webp",
+      "path": "releases/20261031-4/assets/events/shiminoteire.webp",
       "bytes": 128086,
       "sha256": "ecfba74d73683c6fc906a1241dbdcdf741af7cc54514d4926cc924996517dcec"
     },
     {
-      "path": "releases/20261031-3/assets/events/somekurabe.webp",
+      "path": "releases/20261031-4/assets/events/somekurabe.webp",
       "bytes": 131200,
       "sha256": "91f191d55e150b1d8919f9f1be89a5d444faae0c9426b5153f4b1da10d9d5227"
     },
     {
-      "path": "releases/20261031-3/assets/events/spring.webp",
+      "path": "releases/20261031-4/assets/events/spring.webp",
       "bytes": 143410,
       "sha256": "8619bfa565f30b613bbf96d963e494facca681710bb4470380e6e00d45e9cfa0"
     },
     {
-      "path": "releases/20261031-3/assets/events/stencil.webp",
+      "path": "releases/20261031-4/assets/events/stencil.webp",
       "bytes": 124036,
       "sha256": "b0520703c11d933a59e67d732d6db9c84d0cab646d35f29fd7dad7fba72ead6c"
     },
     {
-      "path": "releases/20261031-3/assets/events/teire.webp",
+      "path": "releases/20261031-4/assets/events/teire.webp",
       "bytes": 135642,
       "sha256": "e831aac41ea548c1b662b00d51dbf8b0ca0928d389cc1ba547f679e330a055b4"
     },
     {
-      "path": "releases/20261031-3/assets/events/utsushi.webp",
+      "path": "releases/20261031-4/assets/events/utsushi.webp",
       "bytes": 148254,
       "sha256": "0486fd839e34a1a843718c7adaee9feaffd16c1eb6ecc663a986dc7ad6b6f288"
     },
     {
-      "path": "releases/20261031-3/assets/features/izumi.webp",
+      "path": "releases/20261031-4/assets/features/izumi.webp",
       "bytes": 8360,
       "sha256": "b17bb275f8dd99f73b8208cd977b7274a57da7b8a9e64624963a15eeff13024a"
     },
     {
-      "path": "releases/20261031-3/assets/features/yodomi.webp",
+      "path": "releases/20261031-4/assets/features/yodomi.webp",
       "bytes": 10258,
       "sha256": "31639ebe14d543ff7b699c7d51246870509d7aa19c391a6e61796e5295ad7dcc"
     },
     {
-      "path": "releases/20261031-3/assets/fx/ink_bloom.webp",
+      "path": "releases/20261031-4/assets/fx/ink_bloom.webp",
       "bytes": 9604,
       "sha256": "5d781a0944c1429f5fa99f27a40c8b60c238f9cbe40951c37715cc465e30f58b"
     },
     {
-      "path": "releases/20261031-3/assets/fx/splat_a.webp",
+      "path": "releases/20261031-4/assets/fx/splat_a.webp",
       "bytes": 6200,
       "sha256": "7cbfbddb93c7054e371bf2c3131c692f60c483cfc887bcfef9b1ad801f1c0e77"
     },
     {
-      "path": "releases/20261031-3/assets/fx/splat_b.webp",
+      "path": "releases/20261031-4/assets/fx/splat_b.webp",
       "bytes": 6794,
       "sha256": "10b1620184a86f3fa770f135f95a596e5c94a3b7bd6df0055407d2941c05017d"
     },
     {
-      "path": "releases/20261031-3/assets/fx/splat_c.webp",
+      "path": "releases/20261031-4/assets/fx/splat_c.webp",
       "bytes": 6284,
       "sha256": "51c55a8b13511dfc8673523774a942dc06817fe7337e90333ae7d2bb4f50767d"
     },
     {
-      "path": "releases/20261031-3/assets/icons/app.png",
+      "path": "releases/20261031-4/assets/icons/app.png",
       "bytes": 448513,
       "sha256": "64a7ee7d66b50f22b00e8d950134aa7361e216f061d3a4050c460e17327ff2e2"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_aidama.webp",
+      "path": "releases/20261031-4/assets/icons/crest_aidama.webp",
       "bytes": 8602,
       "sha256": "d54f675d371b78c267751bda4ef4d813285d584fe45f19431fed007d82d2396b"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_asanoha.webp",
+      "path": "releases/20261031-4/assets/icons/crest_asanoha.webp",
       "bytes": 12748,
       "sha256": "6cd8faac7e28a404d0baefe3b3e9dd9dca611b939429327ee30da40b9915f838"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_aya.webp",
+      "path": "releases/20261031-4/assets/icons/crest_aya.webp",
       "bytes": 9728,
       "sha256": "a7079ba0237cdd3f745cb1aa21ba1519b7ee49c70ff93b030d9407b62a68031f"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_chidori.webp",
+      "path": "releases/20261031-4/assets/icons/crest_chidori.webp",
       "bytes": 9644,
       "sha256": "e4d24bee38c8f66b43329f7a56e1f188d07b003dacdc3aebba40e43b73d2c79d"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_futaba.webp",
+      "path": "releases/20261031-4/assets/icons/crest_futaba.webp",
       "bytes": 7462,
       "sha256": "0082ddc0330838d2aa770e9ff69c3a75aa070a8f0fdd46ebb8b7174eff57e729"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_futatsudomoe.webp",
+      "path": "releases/20261031-4/assets/icons/crest_futatsudomoe.webp",
       "bytes": 5726,
       "sha256": "481f5471ad56bd4eb5c4d546fc8ed7be910412937156f7332f2fc47ae1d3a446"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_hinoko.webp",
+      "path": "releases/20261031-4/assets/icons/crest_hinoko.webp",
       "bytes": 10390,
       "sha256": "06ccbc665efd2a8a34b9ba8bb7cae35b371aaa2a97b50b838ab7bca1f934f9c8"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_hitoiro.webp",
+      "path": "releases/20261031-4/assets/icons/crest_hitoiro.webp",
       "bytes": 6226,
       "sha256": "db71c99af27a143e0972f4a485cd886a9931482cff9d29f87e9a196cc691065a"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_hiyoku.webp",
+      "path": "releases/20261031-4/assets/icons/crest_hiyoku.webp",
       "bytes": 8150,
       "sha256": "7b0d0e1f5ebc23d5dcccaac3a0a5a66411d8e146936f7cdaeb9e051bf9982d49"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_ichi.webp",
+      "path": "releases/20261031-4/assets/icons/crest_ichi.webp",
       "bytes": 10950,
       "sha256": "2c080cb5c06323227799a8ee6b7977e2ef6e6b891232aebe4bd5d706e4a4dfa1"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_igeta.webp",
+      "path": "releases/20261031-4/assets/icons/crest_igeta.webp",
       "bytes": 3308,
       "sha256": "1850bfba618efcf7003d207ae359d85a5d795a988b12474ce21dbbc288cbf8b7"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_iteai.webp",
+      "path": "releases/20261031-4/assets/icons/crest_iteai.webp",
       "bytes": 11398,
       "sha256": "61c8cd2ba7f645cdcf36bdd717dcf8403695ced08249615cb08a148b546d073a"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_kagome.webp",
+      "path": "releases/20261031-4/assets/icons/crest_kagome.webp",
       "bytes": 10624,
       "sha256": "a9c2afc1255d41c45ef60a0da6a5b988e5b24e270405894e26390c9ea1a6c121"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_kakinoha.webp",
+      "path": "releases/20261031-4/assets/icons/crest_kakinoha.webp",
       "bytes": 6716,
       "sha256": "9b2cb59378a69e77a51105bcbbcdf90a62fe8492c116bc3309fb9a63d5f754e6"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_kasaneiro.webp",
+      "path": "releases/20261031-4/assets/icons/crest_kasaneiro.webp",
       "bytes": 9556,
       "sha256": "4c15d3df7a61e84a57757ecf586ebc870829421daa4c0c33897bec112aefa5e3"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_kikkou.webp",
+      "path": "releases/20261031-4/assets/icons/crest_kikkou.webp",
       "bytes": 5170,
       "sha256": "72f51d207bb3dcde9eea367094dfbfa31c83e8814bd02aa0e1af89a14ff68b28"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_kura.webp",
+      "path": "releases/20261031-4/assets/icons/crest_kura.webp",
       "bytes": 9146,
       "sha256": "7cd0e5552c4f7a5c1d9249b32e869876d1e9d6fd43dc563755b5e2cf437b978e"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_matsukawa.webp",
+      "path": "releases/20261031-4/assets/icons/crest_matsukawa.webp",
       "bytes": 6128,
       "sha256": "ab3c9e68810b7264c5b732580d768d18bb3d9a3b7f667e3cc0f6163038478abc"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_mutsume.webp",
+      "path": "releases/20261031-4/assets/icons/crest_mutsume.webp",
       "bytes": 7514,
       "sha256": "f4a730f200116ce4027e6a98282b58f8d0e46255e455445c534562628cee6b90"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_naoshiito.webp",
+      "path": "releases/20261031-4/assets/icons/crest_naoshiito.webp",
       "bytes": 10392,
       "sha256": "ffd39d872ebea1f4fbdf25496e4800e6b3d792c42a041405fe3e4daecea72c7d"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_nishiki.webp",
+      "path": "releases/20261031-4/assets/icons/crest_nishiki.webp",
       "bytes": 10758,
       "sha256": "67369c1e886d9176c1c0330d890cae91c7f913934870c574a5d0df24229d869b"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_ryusui.webp",
+      "path": "releases/20261031-4/assets/icons/crest_ryusui.webp",
       "bytes": 14742,
       "sha256": "2dd954f6006395efde725c16f4eca0c5ed64c7949f36e6372ec46252a0ab9a36"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_shippou.webp",
+      "path": "releases/20261031-4/assets/icons/crest_shippou.webp",
       "bytes": 13602,
       "sha256": "7ce3f10bb090a934058d08328ef2ea28bc86ca2d4dd73661fc0701d6783dc961"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_shironuki.webp",
+      "path": "releases/20261031-4/assets/icons/crest_shironuki.webp",
       "bytes": 8874,
       "sha256": "fbd59741b962ab2288a5e40944a0d8c13a15ee383cd75400f4c4852cf1e263ea"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_soebishi.webp",
+      "path": "releases/20261031-4/assets/icons/crest_soebishi.webp",
       "bytes": 8272,
       "sha256": "1ddf2c14b7ebfd8b954fdad5f35f1b7af2631daa4555d833e5280bcb59c4f2f0"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_suminagashi.webp",
+      "path": "releases/20261031-4/assets/icons/crest_suminagashi.webp",
       "bytes": 16522,
       "sha256": "12faf9d9813522fba1389277e773319b972c16a49f7c99f0b527366240bc4b5c"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_tsugiate.webp",
+      "path": "releases/20261031-4/assets/icons/crest_tsugiate.webp",
       "bytes": 7190,
       "sha256": "a6f942e2f8725caa30b428ae0d59f4a3c1e581754d1d7cd10f97c5cdbb9921e0"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_tsuru.webp",
+      "path": "releases/20261031-4/assets/icons/crest_tsuru.webp",
       "bytes": 10116,
       "sha256": "2ff55328bddd232a4188c65ad25289047247ae1f82b454bf33251dd910c7f112"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_uroko.webp",
+      "path": "releases/20261031-4/assets/icons/crest_uroko.webp",
       "bytes": 7916,
       "sha256": "9d4689d4865bbb2fad5871e47ff1c264ece17530ae5c9c7f28bf0d28bf948733"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_wachigai.webp",
+      "path": "releases/20261031-4/assets/icons/crest_wachigai.webp",
       "bytes": 6322,
       "sha256": "2af6b626f271473d9816cdcfdc0a0fa41bd85179a2fdac220b73b8eaa94c4eeb"
     },
     {
-      "path": "releases/20261031-3/assets/icons/crest_yukimochi.webp",
+      "path": "releases/20261031-4/assets/icons/crest_yukimochi.webp",
       "bytes": 11664,
       "sha256": "92760455cfabefbcecebeea06f1610efd4c0d191214d75717b917f1d40ab8301"
     },
     {
-      "path": "releases/20261031-3/assets/icons/evolution_hajike-focus.webp",
+      "path": "releases/20261031-4/assets/icons/evolution_hajike-focus.webp",
       "bytes": 1818,
       "sha256": "ff08b7903af312ee023ef5698e6862906af9fb9e3fa8f202e3c0d89e3dcef143"
     },
     {
-      "path": "releases/20261031-3/assets/icons/evolution_hajike-spread.webp",
+      "path": "releases/20261031-4/assets/icons/evolution_hajike-spread.webp",
       "bytes": 4768,
       "sha256": "bd4e3826e23ad08eb3bf99afa341b18c0eab268a7b53e9e42407735b617ed2a4"
     },
     {
-      "path": "releases/20261031-3/assets/icons/evolution_karami-focus.webp",
+      "path": "releases/20261031-4/assets/icons/evolution_karami-focus.webp",
       "bytes": 5842,
       "sha256": "38416a746c067155299bf037816596fac3a2e8e8e17c99c8022eaec842b5613c"
     },
     {
-      "path": "releases/20261031-3/assets/icons/evolution_karami-spread.webp",
+      "path": "releases/20261031-4/assets/icons/evolution_karami-spread.webp",
       "bytes": 4742,
       "sha256": "8c39db3c7d5ebbd1763fda99d5a14a7b24f9f084e166bc74098f1b595c3324e9"
     },
     {
-      "path": "releases/20261031-3/assets/icons/evolution_nijimi-focus.webp",
+      "path": "releases/20261031-4/assets/icons/evolution_nijimi-focus.webp",
       "bytes": 6508,
       "sha256": "61f7a9c453869d6ab24c79310ba53377701e7a870652169fd9669e4a5f0ed82a"
     },
     {
-      "path": "releases/20261031-3/assets/icons/evolution_nijimi-spread.webp",
+      "path": "releases/20261031-4/assets/icons/evolution_nijimi-spread.webp",
       "bytes": 6562,
       "sha256": "9006286a7434390938cbab6dc658bd2c759539258a5ccb5997912f423543c2d5"
     },
     {
-      "path": "releases/20261031-3/assets/icons/react_hajike.webp",
+      "path": "releases/20261031-4/assets/icons/react_hajike.webp",
       "bytes": 5878,
       "sha256": "320c951a6a55539fd6245f30f06703670ad1ed9359488ef3c5258ded00dc7fa4"
     },
     {
-      "path": "releases/20261031-3/assets/icons/react_karami.webp",
+      "path": "releases/20261031-4/assets/icons/react_karami.webp",
       "bytes": 5950,
       "sha256": "dc064a316f3428cc8b36ebbfcaba2a905b25eb560a072cb3fa877f7be82effcc"
     },
     {
-      "path": "releases/20261031-3/assets/icons/react_nijimi.webp",
+      "path": "releases/20261031-4/assets/icons/react_nijimi.webp",
       "bytes": 3626,
       "sha256": "22d71e77b94fdef4b81bc662519f5c93c828d8aa77a9b6012097f55e0b0a8692"
     },
     {
-      "path": "releases/20261031-3/assets/icons/react_sumizome.webp",
+      "path": "releases/20261031-4/assets/icons/react_sumizome.webp",
       "bytes": 7572,
       "sha256": "0c1d3e85b2b8d31c709652880a098433dd7d3a62d6927ce20652214d94d3b82f"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_ajiro.webp",
+      "path": "releases/20261031-4/assets/icons/tech_ajiro.webp",
       "bytes": 12286,
       "sha256": "3fa467b9c41bd6022cc44705acad31a5053bdbdf935ee15769fdd2eb971bfb6c"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_atozome.webp",
+      "path": "releases/20261031-4/assets/icons/tech_atozome.webp",
       "bytes": 8200,
       "sha256": "615708010c9afed9f4edcec7c473bb29c3406d51d8d59cd7e1baf08e1046f464"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_awasezome.webp",
+      "path": "releases/20261031-4/assets/icons/tech_awasezome.webp",
       "bytes": 6106,
       "sha256": "26a2768cc18f120941b52f51dde8d390fadcd3aee14fab2e8c8d600e95c4a27b"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_baisen.webp",
+      "path": "releases/20261031-4/assets/icons/tech_baisen.webp",
       "bytes": 6814,
       "sha256": "400d3361a94f72e32ca2924dff99e258a62c8b57bd16eebd158bf6c13235207d"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_bassen.webp",
+      "path": "releases/20261031-4/assets/icons/tech_bassen.webp",
       "bytes": 3440,
       "sha256": "b00e83879f80b3732e0bcd93457d7c1e370790c713d8da667abdb63bd238338e"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_chirashi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_chirashi.webp",
       "bytes": 4936,
       "sha256": "e83ce4a9041d99d7f6505f30078a0ef6e6e3fa8c385cb5200db78d14a8b7e7e5"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_edatsugi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_edatsugi.webp",
       "bytes": 5306,
       "sha256": "07705aebbcb0e06f647d4f301c59b16ca6581e07ce672f120bb38ee955f1bb6b"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_erizome.webp",
+      "path": "releases/20261031-4/assets/icons/tech_erizome.webp",
       "bytes": 5736,
       "sha256": "6689e222031683fcd985defbeb3a4f5f680112acdd26e50729ea43476b13644c"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_fukazome.webp",
+      "path": "releases/20261031-4/assets/icons/tech_fukazome.webp",
       "bytes": 7178,
       "sha256": "4299b4638446e6d452955c6c757a84424ff4f24b4df3f3062633021bcb82f12e"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_futafushi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_futafushi.webp",
       "bytes": 5294,
       "sha256": "f3377194dfa377579428807fda2f15ab5fae5a6b2d43624901a3415efd3b8255"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_futawatashi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_futawatashi.webp",
       "bytes": 6266,
       "sha256": "6448f59b59f1e45aceded3045666e743a16c9654a1ba4253c66144c29d815587"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_futazuri.webp",
+      "path": "releases/20261031-4/assets/icons/tech_futazuri.webp",
       "bytes": 6020,
       "sha256": "1655bf3dd2dbce429ec2f333a1b254c6daaf5f0c77c09c6b070e5781f51a2710"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_hagire.webp",
+      "path": "releases/20261031-4/assets/icons/tech_hagire.webp",
       "bytes": 4958,
       "sha256": "a66d26129e7262e9e6211ea5bc734cf62fd79399174b6d47f0ebe6e258b2ae86"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_hane.webp",
+      "path": "releases/20261031-4/assets/icons/tech_hane.webp",
       "bytes": 4086,
       "sha256": "635ed5e2ba676e3a1ca056dac155dc77d08346f20c9ce137487228ce66e5b983"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_hikigushi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_hikigushi.webp",
       "bytes": 4112,
       "sha256": "a49799c27193c6735a21b7cbbfc07cadaae89bbe314ae620c9e60cd26a60a9b8"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_hikizome.webp",
+      "path": "releases/20261031-4/assets/icons/tech_hikizome.webp",
       "bytes": 5654,
       "sha256": "43eb27a38d1802beb56238582c67d1fab5ec2259ce76e8cee978021d8d7b3c52"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_hiroinui.webp",
+      "path": "releases/20261031-4/assets/icons/tech_hiroinui.webp",
       "bytes": 7276,
       "sha256": "cf8b7642bc0afa370c9fe18d769b0280e063ce977ed5193a5b778560f4b9c916"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_hitodashi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_hitodashi.webp",
       "bytes": 8922,
       "sha256": "83bd745c106bbb90add05cfe544b237cd7760c0808bb55243d68156fd905b545"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_hitohabiraki.webp",
+      "path": "releases/20261031-4/assets/icons/tech_hitohabiraki.webp",
       "bytes": 5178,
       "sha256": "2c85791b320980ecbea66e47cf71bbcdd37995c46a80adf38659f71b24a1da80"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_hodoki.webp",
+      "path": "releases/20261031-4/assets/icons/tech_hodoki.webp",
       "bytes": 3948,
       "sha256": "b0888d3b565a0f894c7a2dd5df08bff5f2669a2938e87784949d0241c89df05a"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_iroawase.webp",
+      "path": "releases/20261031-4/assets/icons/tech_iroawase.webp",
       "bytes": 5882,
       "sha256": "9e13ef1f57fa8c4be7c8523b8220b4e93d193408e4e33ac64f0ac4e07b0f51a4"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_irokari.webp",
+      "path": "releases/20261031-4/assets/icons/tech_irokari.webp",
       "bytes": 4118,
       "sha256": "eeb7f73b35f5b58e83eeda8372ab1402cdbaeb8a93e1cc8087d1fb8082721076"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_jizome.webp",
+      "path": "releases/20261031-4/assets/icons/tech_jizome.webp",
       "bytes": 8812,
       "sha256": "bc8d3fedc5ff170f58fa15265b8262ef5cf262c03df3a4b322e43af575511dcc"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_karanui.webp",
+      "path": "releases/20261031-4/assets/icons/tech_karanui.webp",
       "bytes": 6714,
       "sha256": "daca507960b9ce7876ec589bacf8b823360722e30b345aa737fb58eb69deacdd"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_kasane.webp",
+      "path": "releases/20261031-4/assets/icons/tech_kasane.webp",
       "bytes": 5930,
       "sha256": "6257f43cf8aa4ada7ebf13569e89857b414146d030cb7e3096e976883faf3323"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_kasumi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_kasumi.webp",
       "bytes": 1602,
       "sha256": "ccec873882cf4f05b46f80fd6b1730869ac6ca4c7d962c6c1d5eafc64db9eabf"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_kenrou.webp",
+      "path": "releases/20261031-4/assets/icons/tech_kenrou.webp",
       "bytes": 9770,
       "sha256": "2077628b0b3ad690ac3bf0a99527801330e0638ff5eba350c7f1082bb62f98e8"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_koou.webp",
+      "path": "releases/20261031-4/assets/icons/tech_koou.webp",
       "bytes": 4614,
       "sha256": "4cde706cd1457b85da0fff6d3301ad9c499bbb4a8cb9d25690e17e61827d5ec2"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_machitsugi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_machitsugi.webp",
       "bytes": 5018,
       "sha256": "99569d33b3d762176f0e00da97f576a7af48a1eb11a3e92b39f8888182682246"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_maetsugi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_maetsugi.webp",
       "bytes": 4228,
       "sha256": "b1d70e4860300042600efe4d813fd37bcfbe8de32618c4d9a72ee369262a2e34"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_makimodoshi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_makimodoshi.webp",
       "bytes": 6980,
       "sha256": "facb0770901ea5f4435c9b6033b8221adf216c096b5a303f29d5a924018c470a"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_mikuchi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_mikuchi.webp",
       "bytes": 6420,
       "sha256": "beb4c04453614f10cce8d2f6f54213311b52d68dfd3e214cab8077d478ba4a95"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_nokoshinuki.webp",
+      "path": "releases/20261031-4/assets/icons/tech_nokoshinuki.webp",
       "bytes": 7698,
       "sha256": "f8c0b9fbc6aae22dd88c92eeaebc1f9ba6b6a637f8325107fbc59964517915b9"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_norihagi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_norihagi.webp",
       "bytes": 5064,
       "sha256": "165f78aba92f788c47e6bf0cd0eaa988c3d9da32689740f6a2a5826d33cb51cb"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_oizome.webp",
+      "path": "releases/20261031-4/assets/icons/tech_oizome.webp",
       "bytes": 4296,
       "sha256": "9f236e4cafb72cbbdb4636d99d486e2da5d96679bda5e789c16c98fd6f4e3f4b"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_sakizome.webp",
+      "path": "releases/20261031-4/assets/icons/tech_sakizome.webp",
       "bytes": 5274,
       "sha256": "02b2fd294b0aa15d3b0f7736be46f4b1a3fe56d17261b88a4484b7d544a56c59"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_seki.webp",
+      "path": "releases/20261031-4/assets/icons/tech_seki.webp",
       "bytes": 10756,
       "sha256": "5761eb14319332aa0f66c569f5a2efbad82b5b9250159e409668e32246e31dc7"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_shibori.webp",
+      "path": "releases/20261031-4/assets/icons/tech_shibori.webp",
       "bytes": 10530,
       "sha256": "d61bf763c7a2615908e065f59200f741d24e5d8e0eed819787f2721ff9edbed4"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_sorazome.webp",
+      "path": "releases/20261031-4/assets/icons/tech_sorazome.webp",
       "bytes": 8978,
       "sha256": "66dee35bbf05fc91204050381f614db0fd7a7f44be2a9f5965137baf502e881c"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_sujibiki.webp",
+      "path": "releases/20261031-4/assets/icons/tech_sujibiki.webp",
       "bytes": 6560,
       "sha256": "88add5de397b234bda802ec44ec46cd01e5b0e82a2a15c78009842aeca84cc73"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_suotsugi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_suotsugi.webp",
       "bytes": 7330,
       "sha256": "3c885c4a054a5b50983a3212f08fb1f6e272b580c90febc3064a407e689784dc"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_tamari.webp",
+      "path": "releases/20261031-4/assets/icons/tech_tamari.webp",
       "bytes": 4486,
       "sha256": "9d0c959f7bbf8ba213a9947c504ae8bc54ef1d1b42352fd7494ac11ef8e75c1c"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_tameuchi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_tameuchi.webp",
       "bytes": 3436,
       "sha256": "e0471b179e22735b0d4dcf41124f4ea2c13e0be9f2646c59f6aebede451187d0"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_tataki.webp",
+      "path": "releases/20261031-4/assets/icons/tech_tataki.webp",
       "bytes": 7940,
       "sha256": "2f7c802fa754cc78dc4ec68bfdc996865a294c5475dacdd5f868936b47f8e9c8"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_tewatashi.webp",
+      "path": "releases/20261031-4/assets/icons/tech_tewatashi.webp",
       "bytes": 5052,
       "sha256": "b18d383c350fa001a4d6081c18adc859ea6a090359da414f5947b9c35214dd23"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_utsuri.webp",
+      "path": "releases/20261031-4/assets/icons/tech_utsuri.webp",
       "bytes": 2724,
       "sha256": "ce97c31d1f847021811232d3b9a153d8d97cf60247435099157bc0127471631b"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_watatori.webp",
+      "path": "releases/20261031-4/assets/icons/tech_watatori.webp",
       "bytes": 12546,
       "sha256": "f49679d0f797c3016168dbdffc1c43ad1438a9cf7eb3d42aca3d249b2022de4a"
     },
     {
-      "path": "releases/20261031-3/assets/icons/tech_yobimizu.webp",
+      "path": "releases/20261031-4/assets/icons/tech_yobimizu.webp",
       "bytes": 2304,
       "sha256": "e83b19e367c5538b7bebee28d49ecf8a02bbd6998cb560d6589d8314c9fb968f"
     },
     {
-      "path": "releases/20261031-3/assets/props/drying_rack.webp",
+      "path": "releases/20261031-4/assets/props/drying_rack.webp",
       "bytes": 20090,
       "sha256": "8ae1ccbaf35abd731df951f72e6601cac5f105984e2b28db4e3bf951f2d8c10b"
     },
     {
-      "path": "releases/20261031-3/assets/props/indigo_plants.webp",
+      "path": "releases/20261031-4/assets/props/indigo_plants.webp",
       "bytes": 25434,
       "sha256": "8d6dea04341c78ad79ad6a2b4660353dc64d58d50a9868945c5de7e628c0266d"
     },
     {
-      "path": "releases/20261031-3/assets/props/reeds.webp",
+      "path": "releases/20261031-4/assets/props/reeds.webp",
       "bytes": 32022,
       "sha256": "5eba31616b167f43aa960c532cf8fe59b59ffe2d82ef19203d4a7879ea529ff1"
     },
     {
-      "path": "releases/20261031-3/assets/props/rock.webp",
+      "path": "releases/20261031-4/assets/props/rock.webp",
       "bytes": 11458,
       "sha256": "2530bb7ff7aeb86aeaaa18aa703a2ad6504c953e846dded05b2ea45ccc02a698"
     },
     {
-      "path": "releases/20261031-3/assets/props/tub.webp",
+      "path": "releases/20261031-4/assets/props/tub.webp",
       "bytes": 14970,
       "sha256": "706bf69d7eadd21e66f09058e87b297204193155a1ed826b23aace91c990c526"
     },
     {
-      "path": "releases/20261031-3/assets/screens/title_landscape.webp",
+      "path": "releases/20261031-4/assets/screens/title_landscape.webp",
       "bytes": 592082,
       "sha256": "3064e6fc1fe5f3324edfc0fd3334384b1f769b8f173ece5f7722f09327673d0c"
     },
     {
-      "path": "releases/20261031-3/assets/screens/title_portrait.webp",
+      "path": "releases/20261031-4/assets/screens/title_portrait.webp",
       "bytes": 559170,
       "sha256": "7c99f0fadbf361e0b3894c9d12686c800442efc569044b64a8a495dce1c78111"
     },
     {
-      "path": "releases/20261031-3/assets/story/ch1.webp",
+      "path": "releases/20261031-4/assets/story/ch1.webp",
       "bytes": 168342,
       "sha256": "dfe753e597a821df440f24b21e854a7c52ed0cc9dd3f388d663b8362de70144b"
     },
     {
-      "path": "releases/20261031-3/assets/story/ch2.webp",
+      "path": "releases/20261031-4/assets/story/ch2.webp",
       "bytes": 130416,
       "sha256": "ad0d8bb8ee158a3f2fd044e7356e595e169f77dae92af62fff79457b0132ba27"
     },
     {
-      "path": "releases/20261031-3/assets/story/ch3.webp",
+      "path": "releases/20261031-4/assets/story/ch3.webp",
       "bytes": 109418,
       "sha256": "aae4f88ec93278101231c52eb69247a404b37575f9f13ce09e1b31c8685cdabe"
     },
     {
-      "path": "releases/20261031-3/assets/story/ch4.webp",
+      "path": "releases/20261031-4/assets/story/ch4.webp",
       "bytes": 179080,
       "sha256": "7fe0e749333bf3a9177a655662240402297ffb75bfcbcbc7bca11083a1a7483d"
     },
     {
-      "path": "releases/20261031-3/assets/story/ch5.webp",
+      "path": "releases/20261031-4/assets/story/ch5.webp",
       "bytes": 113510,
       "sha256": "4542ff12342375b063b9126e119cdbd7af9c76a2178e17bc4925d31cfca1c9aa"
     },
     {
-      "path": "releases/20261031-3/assets/story/ch6.webp",
+      "path": "releases/20261031-4/assets/story/ch6.webp",
       "bytes": 155212,
       "sha256": "3093ae0db1c627c62b2a6c3ae9b4a8533fc5066999d50e7efcab9e9a79660485"
     },
     {
-      "path": "releases/20261031-3/assets/story/chigusa.webp",
+      "path": "releases/20261031-4/assets/story/chigusa.webp",
       "bytes": 73336,
       "sha256": "594653a6cf6c869fc536c2535c7b19f94f87ffb59ba63ff47cf006030a7c9bfc"
     },
     {
-      "path": "releases/20261031-3/assets/story/ending.webp",
+      "path": "releases/20261031-4/assets/story/ending.webp",
       "bytes": 177166,
       "sha256": "1da6413bb3d5bf69d15623bb73a295b38cac7b2cc0717a1ad0beb9bd02e80957"
     },
     {
-      "path": "releases/20261031-3/assets/story/gd1.webp",
+      "path": "releases/20261031-4/assets/story/gd1.webp",
       "bytes": 107106,
       "sha256": "fbe8bb57d0ef45854344385400021e64339c76098bf2730e4ddefe19c3cf6569"
     },
     {
-      "path": "releases/20261031-3/assets/story/gd2.webp",
+      "path": "releases/20261031-4/assets/story/gd2.webp",
       "bytes": 136554,
       "sha256": "39c6224ed8592be6635cfb894f78f270ed4eacd166f6ca368137b761d82b7bb1"
     },
     {
-      "path": "releases/20261031-3/assets/story/gd3.webp",
+      "path": "releases/20261031-4/assets/story/gd3.webp",
       "bytes": 162984,
       "sha256": "c4ac19bc64a41307a68b3a315a9f0a1aa9ab4d7fdf1f3323bd8be12da6fbacdc"
     },
     {
-      "path": "releases/20261031-3/assets/story/gd4.webp",
+      "path": "releases/20261031-4/assets/story/gd4.webp",
       "bytes": 188496,
       "sha256": "cff38d8639ba25f9d4199615b4e742fab52a98207a3231dc113e39d5b0adcd79"
     },
     {
-      "path": "releases/20261031-3/assets/story/gd5.webp",
+      "path": "releases/20261031-4/assets/story/gd5.webp",
       "bytes": 195340,
       "sha256": "b93a091717448f39b51c76aed5e876ecf188fb38dd524c10f99af338444266e5"
     },
     {
-      "path": "releases/20261031-3/assets/story/sendo.webp",
+      "path": "releases/20261031-4/assets/story/sendo.webp",
       "bytes": 61534,
       "sha256": "724200cfdc09facf2164fea0a7bdabf2483a0ca4000e3716871aef2feeb90e45"
     },
     {
-      "path": "releases/20261031-3/assets/tex/ground.webp",
+      "path": "releases/20261031-4/assets/tex/ground.webp",
       "bytes": 170090,
       "sha256": "3b5e6f8acdc02ec446813a4d37341e17a0747461d5e543350d5394526e5494a2"
     },
     {
-      "path": "releases/20261031-3/assets/tex/water.webp",
+      "path": "releases/20261031-4/assets/tex/water.webp",
       "bytes": 259588,
       "sha256": "958e5ebb266198a80f9c0f73e6723a386ad0b8bb8c65d0ce58bdc9ba857f4126"
     },
     {
-      "path": "releases/20261031-3/assets/towers/awaseita.webp",
+      "path": "releases/20261031-4/assets/towers/awaseita.webp",
       "bytes": 17744,
       "sha256": "e1f017166f34eab7451da56a5ca51e8d080574324be951961553a36f2c4723cd"
     },
     {
-      "path": "releases/20261031-3/assets/towers/bassendai.webp",
+      "path": "releases/20261031-4/assets/towers/bassendai.webp",
       "bytes": 18270,
       "sha256": "a7ba4c03b4a36656d88e5b65deff58c47c20c3fb6f3a7344988d66d85f278186"
     },
     {
-      "path": "releases/20261031-3/assets/towers/brush.webp",
+      "path": "releases/20261031-4/assets/towers/brush.webp",
       "bytes": 18444,
       "sha256": "553768f985680107b8f2c4636cb30bf337ddba5fe4d60f11d99768c8a76fd7ab"
     },
     {
-      "path": "releases/20261031-3/assets/towers/dansuribake.webp",
+      "path": "releases/20261031-4/assets/towers/dansuribake.webp",
       "bytes": 15476,
       "sha256": "c5e61e120e47fd7d4c09eb6ed5f680c0e3be32218283bf59d7b4dd11fcae54fc"
     },
     {
-      "path": "releases/20261031-3/assets/towers/edawakegushi.webp",
+      "path": "releases/20261031-4/assets/towers/edawakegushi.webp",
       "bytes": 16162,
       "sha256": "ca52f5dd6894eff5af5be3ab253c21c5b1abfbe288b4161c57d634291675418a"
     },
     {
-      "path": "releases/20261031-3/assets/towers/enjuwaku.webp",
+      "path": "releases/20261031-4/assets/towers/enjuwaku.webp",
       "bytes": 29412,
       "sha256": "d628188c07b587c6863142e446d02f7983d17db697ae29067019414e6b9e334e"
     },
     {
-      "path": "releases/20261031-3/assets/towers/fuchidoriwaku.webp",
+      "path": "releases/20261031-4/assets/towers/fuchidoriwaku.webp",
       "bytes": 20642,
       "sha256": "a9189bcde942a272e8f011f5bc82b2959c2ae6e79c93ec1a50a30a2be2288f2e"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_brush_layer.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_brush_layer.webp",
       "bytes": 16130,
       "sha256": "8bf964e2c780e27f6d168e2ecc1d00816ad2be0a2878c604047cd24be6fd1bc0"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_brush_quick.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_brush_quick.webp",
       "bytes": 17302,
       "sha256": "6e23a27e95f9b68a37f404e92d79d8d922526dda9f88a85e1c6a3c19b5ff9161"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_hariwaku_inner.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_hariwaku_inner.webp",
       "bytes": 19586,
       "sha256": "d9727c1d78421062d41ee41237ee65729d2067adca94063f91db10b028e0c0fd"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_hariwaku_layer.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_hariwaku_layer.webp",
       "bytes": 18848,
       "sha256": "7b4bad303f660b8b6d62361297469883694c1fcaa4eaaa02576eb17cdc24999d"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_hi_quick.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_hi_quick.webp",
       "bytes": 13748,
       "sha256": "86c3fe929caa39329b63619f1c81c2d7636501ebc6d623e41af06bc65a2b79de"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_hi_through.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_hi_through.webp",
       "bytes": 10096,
       "sha256": "e405b64e191791e31558c1a5d766837880734ad5d94a76332aff09f8e0e79d0b"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_kirifuki_lasting.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_kirifuki_lasting.webp",
       "bytes": 20160,
       "sha256": "ee14d323b1fa005ccae7353c67717610890a6558bac7383bc5ba7de67c728dce"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_kirifuki_wide.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_kirifuki_wide.webp",
       "bytes": 16576,
       "sha256": "8951ddcfdcf7da98ea1adeb2de7197a1e4761189c2e56c779ca2b5476b467491"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_kumade_deep.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_kumade_deep.webp",
       "bytes": 13770,
       "sha256": "18bd6688734abe7b64d89a14970e5a2b67ea798459a78aabfd450f430ed35806"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_kumade_wide.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_kumade_wide.webp",
       "bytes": 14132,
       "sha256": "28dbc7ca610f04ff34c6b17b5404cf919d05cf6b22757503f9dbf571a2cef1b6"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_shigoki_deep.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_shigoki_deep.webp",
       "bytes": 20686,
       "sha256": "b1cc0a105abaa544085e7e611985430cb7b588951c54096574ea039ae0ddeac6"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_shigoki_layer.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_shigoki_layer.webp",
       "bytes": 17546,
       "sha256": "096cade648b662aa6d6f55a4e29581ce4729c1d42833f5a174a5a370e37db30d"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_tachibasami_finish_base.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_tachibasami_finish_base.webp",
       "bytes": 10240,
       "sha256": "14c824f695a57229f4c1317784440609c05fde06fff6052738d8468e23fa9c0a"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_tachibasami_finish_blade.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_tachibasami_finish_blade.webp",
       "bytes": 3638,
       "sha256": "bb924ebb4bcdd72bc4cceb40225147b5902f8b243c02dba3be5b65ede9823281"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_tachibasami_quick_base.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_tachibasami_quick_base.webp",
       "bytes": 10654,
       "sha256": "b3570886c67acd8bb08ca4f5138f830d3119be5391d79a7bd6fb95492b10d4da"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_tachibasami_quick_blade.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_tachibasami_quick_blade.webp",
       "bytes": 3738,
       "sha256": "bdb238c685ab8e4c7752d83d22c7ef71f32ec5cd72e7de8f12a911d2ce65d533"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_yana_fine.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_yana_fine.webp",
       "bytes": 11332,
       "sha256": "3983d5f22fcc7f291f15a9fe6c400cfa42329b10775bad78c3fc7de962d9ffec"
     },
     {
-      "path": "releases/20261031-3/assets/towers/gravity_yana_slow.webp",
+      "path": "releases/20261031-4/assets/towers/gravity_yana_slow.webp",
       "bytes": 11774,
       "sha256": "9e687f91991892fdec7b5dfc769f5f145320d0b4695e6b3b955b419f5752f105"
     },
     {
-      "path": "releases/20261031-3/assets/towers/hajimegushi.webp",
+      "path": "releases/20261031-4/assets/towers/hajimegushi.webp",
       "bytes": 15978,
       "sha256": "5e4309637d7add3f051590dd67a510c92e2b1fbfb3975478f8e78cdc000487aa"
     },
     {
-      "path": "releases/20261031-3/assets/towers/hanashidai.webp",
+      "path": "releases/20261031-4/assets/towers/hanashidai.webp",
       "bytes": 11680,
       "sha256": "ac3537cabdab301bf8bd5335ec34e6d82fe4753c7482720a059fb93d86f63e95"
     },
     {
-      "path": "releases/20261031-3/assets/towers/hariwaku.webp",
+      "path": "releases/20261031-4/assets/towers/hariwaku.webp",
       "bytes": 16746,
       "sha256": "2832771a7be599c395d22c14a209b881f9cba78fc2bb749c131a72b8c599ca95"
     },
     {
-      "path": "releases/20261031-3/assets/towers/hasamiwaku.webp",
+      "path": "releases/20261031-4/assets/towers/hasamiwaku.webp",
       "bytes": 18522,
       "sha256": "e6205c3aa817a5b6f08cca46fa9b0cef2bde0ae6703ac26661a9a61abc025047"
     },
     {
-      "path": "releases/20261031-3/assets/towers/hi.webp",
+      "path": "releases/20261031-4/assets/towers/hi.webp",
       "bytes": 13154,
       "sha256": "66d932a9f8aef95de3936534cd427dd548cae188f37108d976468740b26295e3"
     },
     {
-      "path": "releases/20261031-3/assets/towers/hikihari.webp",
+      "path": "releases/20261031-4/assets/towers/hikihari.webp",
       "bytes": 16070,
       "sha256": "ccf7c238d1e46c1c2a79506d2ee42fd7f6c8e4f6d17dedc5b99a742513087e9d"
     },
     {
-      "path": "releases/20261031-3/assets/towers/itomaki.webp",
+      "path": "releases/20261031-4/assets/towers/itomaki.webp",
       "bytes": 15958,
       "sha256": "68f73781ce3be6057cc23058324956b7b204925c8923b9257707b27f212abb95"
     },
     {
-      "path": "releases/20261031-3/assets/towers/itomaki_five_base.webp",
+      "path": "releases/20261031-4/assets/towers/itomaki_five_base.webp",
       "bytes": 16500,
       "sha256": "7a99cdd736a0c3fa969b037e52f21cfe2e01862615448366dd36e88037cc82d8"
     },
     {
-      "path": "releases/20261031-3/assets/towers/itomaki_five_head.webp",
+      "path": "releases/20261031-4/assets/towers/itomaki_five_head.webp",
       "bytes": 6336,
       "sha256": "6ae4e176f4acde3aceab00dfc26f103145592b889c777e8321eee1eb67405b8c"
     },
     {
-      "path": "releases/20261031-3/assets/towers/itomaki_tight_base.webp",
+      "path": "releases/20261031-4/assets/towers/itomaki_tight_base.webp",
       "bytes": 17344,
       "sha256": "cedd9bfdbe57b2a9e4a7f9897f941219f3d08ed6175a07f94aa7e5811c5c3655"
     },
     {
-      "path": "releases/20261031-3/assets/towers/itomaki_tight_head.webp",
+      "path": "releases/20261031-4/assets/towers/itomaki_tight_head.webp",
       "bytes": 5942,
       "sha256": "ef91e01d4c4be46ea7d41b9eb8c2262204308dae54c3a372a4334f1a690d9152"
     },
     {
-      "path": "releases/20261031-3/assets/towers/kakomiwaku.webp",
+      "path": "releases/20261031-4/assets/towers/kakomiwaku.webp",
       "bytes": 19296,
       "sha256": "18bc642eedd0f7288a4f9764a0b5301a2325e2fd98e28a633f851b72363d5517"
     },
     {
-      "path": "releases/20261031-3/assets/towers/katahasami.webp",
+      "path": "releases/20261031-4/assets/towers/katahasami.webp",
       "bytes": 35768,
       "sha256": "70b34359f5f8ccdf4484781fadb4e653e000c34713fb99f47a27bfcfb58e04af"
     },
     {
-      "path": "releases/20261031-3/assets/towers/katahasami_tight_base.webp",
+      "path": "releases/20261031-4/assets/towers/katahasami_tight_base.webp",
       "bytes": 17102,
       "sha256": "cef71ebccf129d7826aba57361d94018979950c97cdae754949ec4031b9162ff"
     },
     {
-      "path": "releases/20261031-3/assets/towers/katahasami_tight_head.webp",
+      "path": "releases/20261031-4/assets/towers/katahasami_tight_head.webp",
       "bytes": 9112,
       "sha256": "153f120ac18fad1e3f457caa3306b250d9852fb1834acf31491f94b3805f7c87"
     },
     {
-      "path": "releases/20261031-3/assets/towers/katahasami_wide_base.webp",
+      "path": "releases/20261031-4/assets/towers/katahasami_wide_base.webp",
       "bytes": 11686,
       "sha256": "a5b9984d80eb267eba23c1ecfdf04f4e43d63f145bb73ab5ba44ca8e3caaf29d"
     },
     {
-      "path": "releases/20261031-3/assets/towers/katahasami_wide_head.webp",
+      "path": "releases/20261031-4/assets/towers/katahasami_wide_head.webp",
       "bytes": 8814,
       "sha256": "b9c2675bef5dd3b7902e7866ec89bb92ea5c566f5bc42c345e4376d9968be501"
     },
     {
-      "path": "releases/20261031-3/assets/towers/kataoshi_base.webp",
+      "path": "releases/20261031-4/assets/towers/kataoshi_base.webp",
       "bytes": 20856,
       "sha256": "9bbd36e8d22b85f9106759bbc1a15c230c0e784a6fb9617811a1ed5c978a5437"
     },
     {
-      "path": "releases/20261031-3/assets/towers/kataoshi_head.webp",
+      "path": "releases/20261031-4/assets/towers/kataoshi_head.webp",
       "bytes": 5834,
       "sha256": "b5b6fd3a0b0dcfd07f4a8fc66f84fe345a968ad2870b04d00c35bf658cf779b6"
     },
     {
-      "path": "releases/20261031-3/assets/towers/kawatsugidai.webp",
+      "path": "releases/20261031-4/assets/towers/kawatsugidai.webp",
       "bytes": 17168,
       "sha256": "e580deff28c38530f6d3fb82b1d154b1c6b3f87634ac6256dd61b9cf8b7e1ea5"
     },
     {
-      "path": "releases/20261031-3/assets/towers/kirifuki.webp",
+      "path": "releases/20261031-4/assets/towers/kirifuki.webp",
       "bytes": 20448,
       "sha256": "0ba4b286e8dfe740210f505cf12bd50ea2adf1c3c6dc27ea29f9f7f44a928f49"
     },
     {
-      "path": "releases/20261031-3/assets/towers/kizuchi.webp",
+      "path": "releases/20261031-4/assets/towers/kizuchi.webp",
       "bytes": 16082,
       "sha256": "6bf34e36c5ffe3716ee425d74899337b82c9155a4626f313183734aa82bfaf34"
     },
     {
-      "path": "releases/20261031-3/assets/towers/kizuchi_echo_base.webp",
+      "path": "releases/20261031-4/assets/towers/kizuchi_echo_base.webp",
       "bytes": 19822,
       "sha256": "1dde96201d9fc99ef6328b8b65482e598fee1763da481d0c29f9a755becd9c0b"
     },
     {
-      "path": "releases/20261031-3/assets/towers/kizuchi_echo_head.webp",
+      "path": "releases/20261031-4/assets/towers/kizuchi_echo_head.webp",
       "bytes": 6354,
       "sha256": "56a0a8283c67770d3d105901fef2d5f0e273db9ed98a4cca608b6c42c6ff8e45"
     },
     {
-      "path": "releases/20261031-3/assets/towers/kizuchi_heavy_base.webp",
+      "path": "releases/20261031-4/assets/towers/kizuchi_heavy_base.webp",
       "bytes": 14056,
       "sha256": "b17b49d336158a2932d4e5535d9dde190af37236d78231cdc1084e567dbd8f37"
     },
     {
-      "path": "releases/20261031-3/assets/towers/kizuchi_heavy_head.webp",
+      "path": "releases/20261031-4/assets/towers/kizuchi_heavy_head.webp",
       "bytes": 8228,
       "sha256": "5bb3698850b6b2afc2ccc67439023b8593b4980500175dfc1d35113953cec4e8"
     },
     {
-      "path": "releases/20261031-3/assets/towers/kumade.webp",
+      "path": "releases/20261031-4/assets/towers/kumade.webp",
       "bytes": 13478,
       "sha256": "91a33ea4525ca4cb69c857d0d754c57fef1037cf08ea67c67f20a2f60927092d"
     },
     {
-      "path": "releases/20261031-3/assets/towers/ladle.webp",
+      "path": "releases/20261031-4/assets/towers/ladle.webp",
       "bytes": 15812,
       "sha256": "1a760711079369112c153ba52ea8411d6ef1e8666920e092efa45456c65a3828"
     },
     {
-      "path": "releases/20261031-3/assets/towers/ladle_deep_base.webp",
+      "path": "releases/20261031-4/assets/towers/ladle_deep_base.webp",
       "bytes": 16866,
       "sha256": "13bc8ba515afc95b48513e4646b873528e6227e17d7e7e66bfd81251e769a467"
     },
     {
-      "path": "releases/20261031-3/assets/towers/ladle_deep_head.webp",
+      "path": "releases/20261031-4/assets/towers/ladle_deep_head.webp",
       "bytes": 10626,
       "sha256": "50a219a8cc27ff116795915bc4ff7503279ed3f3ee6a4856e3d61f912b444eb0"
     },
     {
-      "path": "releases/20261031-3/assets/towers/ladle_twin_base.webp",
+      "path": "releases/20261031-4/assets/towers/ladle_twin_base.webp",
       "bytes": 15280,
       "sha256": "537738702b189b31ac5790a6dbbb320109305777019307621145bc3592f790e8"
     },
     {
-      "path": "releases/20261031-3/assets/towers/ladle_twin_head.webp",
+      "path": "releases/20261031-4/assets/towers/ladle_twin_head.webp",
       "bytes": 10704,
       "sha256": "9c98c5f984a9a27656c36d6385a338c3d179c2f8cee1f633d12b01fb7fd2cdf7"
     },
     {
-      "path": "releases/20261031-3/assets/towers/machibari.webp",
+      "path": "releases/20261031-4/assets/towers/machibari.webp",
       "bytes": 15628,
       "sha256": "ab7424ef966db6d51f98c962331d6f1357e76768aab00f37e13196dc2ccba295"
     },
     {
-      "path": "releases/20261031-3/assets/towers/makitoridai.webp",
+      "path": "releases/20261031-4/assets/towers/makitoridai.webp",
       "bytes": 12548,
       "sha256": "272be4ee475fcecc0963eeffe0e81720735a55ec4b0b202bfe9bcefc2828338b"
     },
     {
-      "path": "releases/20261031-3/assets/towers/momiita.webp",
+      "path": "releases/20261031-4/assets/towers/momiita.webp",
       "bytes": 41360,
       "sha256": "60122895b72e93295ec352bda4a2942b5b55fed3017e1332e2ba6af5dc02064d"
     },
     {
-      "path": "releases/20261031-3/assets/towers/momiita_third_base.webp",
+      "path": "releases/20261031-4/assets/towers/momiita_third_base.webp",
       "bytes": 16564,
       "sha256": "866785a07d95f3c3d80daf637c6101853853c3323db43f33c2cc1735d3c463e8"
     },
     {
-      "path": "releases/20261031-3/assets/towers/momiita_third_head.webp",
+      "path": "releases/20261031-4/assets/towers/momiita_third_head.webp",
       "bytes": 10180,
       "sha256": "ec03c03bbd1b45ab6cb471968b1fc1e07f95b705cc49110731ded356e6b8cbd8"
     },
     {
-      "path": "releases/20261031-3/assets/towers/momiita_wave_base.webp",
+      "path": "releases/20261031-4/assets/towers/momiita_wave_base.webp",
       "bytes": 16234,
       "sha256": "5afd38bc9f7d08ccc0933123fc20feac42d722a105c711c5c55bbf5ed6b20a95"
     },
     {
-      "path": "releases/20261031-3/assets/towers/momiita_wave_head.webp",
+      "path": "releases/20261031-4/assets/towers/momiita_wave_head.webp",
       "bytes": 10200,
       "sha256": "534d8e69850a45f9b8361cb97f104fc029482cf182b15110323cce4479c203ad"
     },
     {
-      "path": "releases/20261031-3/assets/towers/needle_base.webp",
+      "path": "releases/20261031-4/assets/towers/needle_base.webp",
       "bytes": 18380,
       "sha256": "b2dbc6ac66ac74e5306fea8305adaf1a9e987688510dc96cf20275f7679c351a"
     },
     {
-      "path": "releases/20261031-3/assets/towers/needle_bundle_base.webp",
+      "path": "releases/20261031-4/assets/towers/needle_bundle_base.webp",
       "bytes": 13272,
       "sha256": "29900a9e88246014a2855649dd866dc937d2f04e00c744d8794fc44eb129629b"
     },
     {
-      "path": "releases/20261031-3/assets/towers/needle_bundle_head.webp",
+      "path": "releases/20261031-4/assets/towers/needle_bundle_head.webp",
       "bytes": 7176,
       "sha256": "120d7648c1ff3d60852b407a01e9834c9bff654c684a43f5e5c95d6185be1230"
     },
     {
-      "path": "releases/20261031-3/assets/towers/needle_head.webp",
+      "path": "releases/20261031-4/assets/towers/needle_head.webp",
       "bytes": 16094,
       "sha256": "5284643739c0290d99b2264f2fce4eea7606f323a9705b4e564f514536b20baa"
     },
     {
-      "path": "releases/20261031-3/assets/towers/needle_long_base.webp",
+      "path": "releases/20261031-4/assets/towers/needle_long_base.webp",
       "bytes": 10986,
       "sha256": "b1b877d9b5738ac04d629fdf591410a1cd7555ee073e62224f69294d33fc891f"
     },
     {
-      "path": "releases/20261031-3/assets/towers/needle_long_head.webp",
+      "path": "releases/20261031-4/assets/towers/needle_long_head.webp",
       "bytes": 8018,
       "sha256": "a80922ee4805de5a5e935a48b3d91df95ce8a6ddd1737567e3e4a4924bc569a9"
     },
     {
-      "path": "releases/20261031-3/assets/towers/nunobiki.webp",
+      "path": "releases/20261031-4/assets/towers/nunobiki.webp",
       "bytes": 11630,
       "sha256": "b4a6ccacf10a091e94f911a72d76f16caa71efb00b256023e6f5c2b2b6e8976a"
     },
     {
-      "path": "releases/20261031-3/assets/towers/orikaeshiwaku.webp",
+      "path": "releases/20261031-4/assets/towers/orikaeshiwaku.webp",
       "bytes": 17176,
       "sha256": "e8e467fd7cdd4ccc1f8a0318b1fb02dafaddf85fb25faca88d7a9696ed974be1"
     },
     {
-      "path": "releases/20261031-3/assets/towers/ougigaeshi.webp",
+      "path": "releases/20261031-4/assets/towers/ougigaeshi.webp",
       "bytes": 15954,
       "sha256": "da0784d4ec59550c715bec0d43a6543423032b92cc5c393ef383dc3286287299"
     },
     {
-      "path": "releases/20261031-3/assets/towers/ryoguchibake.webp",
+      "path": "releases/20261031-4/assets/towers/ryoguchibake.webp",
       "bytes": 13280,
       "sha256": "e1ef33268989666162b408d8f4bb5349de34c1598591023c6a583a4a24ea7418"
     },
     {
-      "path": "releases/20261031-3/assets/towers/shibuuchibo.webp",
+      "path": "releases/20261031-4/assets/towers/shibuuchibo.webp",
       "bytes": 20556,
       "sha256": "92ec7525800560af524d3ce18447e689a6d12900ed0e8b0b5961fa926ccb93c9"
     },
     {
-      "path": "releases/20261031-3/assets/towers/shigoki.webp",
+      "path": "releases/20261031-4/assets/towers/shigoki.webp",
       "bytes": 14690,
       "sha256": "f3c4b805ea29a550e28055b68fce9eba667f0fc43034e8623fd6d24b40766d81"
     },
     {
-      "path": "releases/20261031-3/assets/towers/shikongushi.webp",
+      "path": "releases/20261031-4/assets/towers/shikongushi.webp",
       "bytes": 23390,
       "sha256": "0adea1fead202ce41070b3f1d5aa78c6a16f0f1de6411d7ed70502caeb7a0c5e"
     },
     {
-      "path": "releases/20261031-3/assets/towers/shizukaito.webp",
+      "path": "releases/20261031-4/assets/towers/shizukaito.webp",
       "bytes": 21470,
       "sha256": "c51438006cf090e254b730f2ab6f9962c2bbaa3fccbc3653ff48367e9371d416"
     },
     {
-      "path": "releases/20261031-3/assets/towers/sorawatariito.webp",
+      "path": "releases/20261031-4/assets/towers/sorawatariito.webp",
       "bytes": 20152,
       "sha256": "37ba2b51632a9f8580d82af59b24ea5f1c9e1de7d0d2d293b669aec06f88c9b0"
     },
     {
-      "path": "releases/20261031-3/assets/towers/suomusubi.webp",
+      "path": "releases/20261031-4/assets/towers/suomusubi.webp",
       "bytes": 17664,
       "sha256": "99e9065f37d33727b79381102996c077aec135525acb36e403d46a133916833a"
     },
     {
-      "path": "releases/20261031-3/assets/towers/suribake.webp",
+      "path": "releases/20261031-4/assets/towers/suribake.webp",
       "bytes": 16256,
       "sha256": "16ec5ceab7e967978f962e864e03c9663fa01f0c8a7425d2da55c23f33542c10"
     },
     {
-      "path": "releases/20261031-3/assets/towers/tachibasami_base.webp",
+      "path": "releases/20261031-4/assets/towers/tachibasami_base.webp",
       "bytes": 10310,
       "sha256": "36eb156fba1de3530b977832dd16f0037a701923fea22f635da88214cf1de2ca"
     },
     {
-      "path": "releases/20261031-3/assets/towers/tachibasami_blade.webp",
+      "path": "releases/20261031-4/assets/towers/tachibasami_blade.webp",
       "bytes": 3946,
       "sha256": "51bf6db0c2416d8054dedad3f016a8f58fddffcf38ebe21b18ac72e59af3dfec"
     },
     {
-      "path": "releases/20261031-3/assets/towers/tobigushi.webp",
+      "path": "releases/20261031-4/assets/towers/tobigushi.webp",
       "bytes": 17684,
       "sha256": "f4c37b6c19e089834e11e876c2f2a33508888b5378159ef55d86ce735a6f8c32"
     },
     {
-      "path": "releases/20261031-3/assets/towers/tobiwakegushi.webp",
+      "path": "releases/20261031-4/assets/towers/tobiwakegushi.webp",
       "bytes": 14876,
       "sha256": "6770e58f171c71ee43181adb3e16ed849bd84ef1121cb3a0e85b8fef9f438309"
     },
     {
-      "path": "releases/20261031-3/assets/towers/tomemusubi.webp",
+      "path": "releases/20261031-4/assets/towers/tomemusubi.webp",
       "bytes": 14514,
       "sha256": "f19d35ca32a8ab6840503ae2ce948ab02b687a6009e592cb9f9762d460af9b81"
     },
     {
-      "path": "releases/20261031-3/assets/towers/tsuranedai.webp",
+      "path": "releases/20261031-4/assets/towers/tsuranedai.webp",
       "bytes": 15952,
       "sha256": "05493d28e8276a89347bda0e023cba017b2c8092aa9326531db223fba952635a"
     },
     {
-      "path": "releases/20261031-3/assets/towers/tsutsu_base.webp",
+      "path": "releases/20261031-4/assets/towers/tsutsu_base.webp",
       "bytes": 12698,
       "sha256": "1541d2e5696135b2e321da0e865d63fb2163fb218b1d0fcb3ac3afbec63ced70"
     },
     {
-      "path": "releases/20261031-3/assets/towers/tsutsu_head.webp",
+      "path": "releases/20261031-4/assets/towers/tsutsu_head.webp",
       "bytes": 4788,
       "sha256": "28ed7d00025e57a15bcc8259d8f4b45df9fc382e19aa7b3e698e89ed478b7ba3"
     },
     {
-      "path": "releases/20261031-3/assets/towers/tsuyugushi.webp",
+      "path": "releases/20261031-4/assets/towers/tsuyugushi.webp",
       "bytes": 19336,
       "sha256": "635e42cff9ccc04c5a49d2f8afc5b6cd55add8d3500f76272d6b85c7100133c7"
     },
     {
-      "path": "releases/20261031-3/assets/towers/uchiwa.webp",
+      "path": "releases/20261031-4/assets/towers/uchiwa.webp",
       "bytes": 18774,
       "sha256": "c835f3327c65dfdbe5da5eac7e8bc424ceb641625c588d4c819b9a4b1579faf9"
     },
     {
-      "path": "releases/20261031-3/assets/towers/uchiwa_layer_base.webp",
+      "path": "releases/20261031-4/assets/towers/uchiwa_layer_base.webp",
       "bytes": 9718,
       "sha256": "f2c8a23e06a72e238e35222b9007c165509a6a4a758784dd77d135a5d0eecc63"
     },
     {
-      "path": "releases/20261031-3/assets/towers/uchiwa_layer_head.webp",
+      "path": "releases/20261031-4/assets/towers/uchiwa_layer_head.webp",
       "bytes": 12074,
       "sha256": "514a17c6d0f77f74bea00056671ea2c67a8e3a5cf31d76a9d69f0ff66402a5e9"
     },
     {
-      "path": "releases/20261031-3/assets/towers/uchiwa_twin_base.webp",
+      "path": "releases/20261031-4/assets/towers/uchiwa_twin_base.webp",
       "bytes": 14666,
       "sha256": "265ebaf04c6194add9504b836ec22ad1b91b8df85ab5522d2d4ed416a6fb38f2"
     },
     {
-      "path": "releases/20261031-3/assets/towers/uchiwa_twin_head.webp",
+      "path": "releases/20261031-4/assets/towers/uchiwa_twin_head.webp",
       "bytes": 16048,
       "sha256": "b35fd6a15a27cfeacdf89221a65ea910dcf0086a1677667f63ef1a90c43177bf"
     },
     {
-      "path": "releases/20261031-3/assets/towers/urauchi.webp",
+      "path": "releases/20261031-4/assets/towers/urauchi.webp",
       "bytes": 18068,
       "sha256": "6214320c1ec4d6ba38df0b00650c45bbdf79b6bc97d63f1a3a5be14ac6e71d94"
     },
     {
-      "path": "releases/20261031-3/assets/towers/vat.webp",
+      "path": "releases/20261031-4/assets/towers/vat.webp",
       "bytes": 13666,
       "sha256": "cc63268f0c5296cba3107bcbe515102495e913840b21fc4ca399b267dff13e66"
     },
     {
-      "path": "releases/20261031-3/assets/towers/watashibake.webp",
+      "path": "releases/20261031-4/assets/towers/watashibake.webp",
       "bytes": 17990,
       "sha256": "0b5410b28e012f416b806eeb8c866a93984d5f9b72719631f3efb3920c12721d"
     },
     {
-      "path": "releases/20261031-3/assets/towers/wheel_base.webp",
+      "path": "releases/20261031-4/assets/towers/wheel_base.webp",
       "bytes": 18690,
       "sha256": "fd509b20f2b40c56a2572a94d8c66047db9fbfb4a8559e6e8e88d4e81cdf46df"
     },
     {
-      "path": "releases/20261031-3/assets/towers/wheel_deep_base.webp",
+      "path": "releases/20261031-4/assets/towers/wheel_deep_base.webp",
       "bytes": 17108,
       "sha256": "02df3cd65a9283d3838d200269c3ed90925f03ef90ad3ca633b20c3e60caf741"
     },
     {
-      "path": "releases/20261031-3/assets/towers/wheel_deep_head.webp",
+      "path": "releases/20261031-4/assets/towers/wheel_deep_head.webp",
       "bytes": 14036,
       "sha256": "92c38167bc9110c043017a2f9d7205c705ef8dc47ce71118f68f6bf2495e6a0f"
     },
     {
-      "path": "releases/20261031-3/assets/towers/wheel_wheel.webp",
+      "path": "releases/20261031-4/assets/towers/wheel_wheel.webp",
       "bytes": 19688,
       "sha256": "578074b5f6110064beb46205125fd6fd63ae62545c18d3211c88a5f19f8c8142"
     },
     {
-      "path": "releases/20261031-3/assets/towers/wheel_wide_base.webp",
+      "path": "releases/20261031-4/assets/towers/wheel_wide_base.webp",
       "bytes": 14050,
       "sha256": "d02559d4620f74ae0cc6cf74a486460d000e59e32ed3ddd2a01243b02a69d9b5"
     },
     {
-      "path": "releases/20261031-3/assets/towers/wheel_wide_head.webp",
+      "path": "releases/20261031-4/assets/towers/wheel_wide_head.webp",
       "bytes": 12636,
       "sha256": "d2c8e5892b87ddc7e4706c785eeac4601423010269900d8b53ae8d5a6ebd282e"
     },
     {
-      "path": "releases/20261031-3/assets/towers/yana.webp",
+      "path": "releases/20261031-4/assets/towers/yana.webp",
       "bytes": 13390,
       "sha256": "e6b04033538c45c92367ab9fee5440d6b37264f8d2a42e2cc253775bf5786dae"
     },
     {
-      "path": "releases/20261031-3/assets/towers/yashabari.webp",
+      "path": "releases/20261031-4/assets/towers/yashabari.webp",
       "bytes": 18288,
       "sha256": "c4f3ec0ba82a45d73b9e1d34219b9fd716399d5ad167d29dd53ff6b1a923aa4c"
     },
     {
-      "path": "releases/20261031-3/assets/towers/yokogushi.webp",
+      "path": "releases/20261031-4/assets/towers/yokogushi.webp",
       "bytes": 16558,
       "sha256": "3b32122912c5962bf4557256efaea5c293b45fcbd45744ccfcbc2cc44091167b"
     },
     {
-      "path": "releases/20261031-3/assets/ui/indigo.webp",
+      "path": "releases/20261031-4/assets/ui/indigo.webp",
       "bytes": 57490,
       "sha256": "f6182b7fe4eef746876c57b449343694b9edfbbe479d7ec555ccb1f4acac721c"
     },
     {
-      "path": "releases/20261031-3/assets/ui/master.webp",
+      "path": "releases/20261031-4/assets/ui/master.webp",
       "bytes": 80002,
       "sha256": "1687094219c3506a382b4ab6e4c4e348721c2fd93a0bbfd4e731011fc2860efb"
     },
     {
-      "path": "releases/20261031-3/assets/ui/washi.webp",
+      "path": "releases/20261031-4/assets/ui/washi.webp",
       "bytes": 19280,
       "sha256": "56b3dd3acd971c4fc6da08bfcc54421ea99c8f29a936b5b7074efc3164ee9aeb"
     },
     {
-      "path": "releases/20261031-3/build/index-BVAq3hCr.js",
-      "bytes": 829971,
-      "sha256": "4c013ac5f1478a4a2957e2af1c216cbdfa4c778f2f4b053c8e353e5d53f87e4d"
+      "path": "releases/20261031-4/build/index-DB92akOd.css",
+      "bytes": 68730,
+      "sha256": "3cfa3058000cf0e19086613d606699007cae241469d62cd6fb4d7e42f06dd54a"
     },
     {
-      "path": "releases/20261031-3/build/index-CJYCiuST.css",
-      "bytes": 67749,
-      "sha256": "426696de4eae2dd2fc9904979f92ad2b3b9e8d91b225892a62c80fea46b70b7f"
+      "path": "releases/20261031-4/build/index-DskUj2Ev.js",
+      "bytes": 846015,
+      "sha256": "d2ede749a176625959cb167cda17c5eacf621017f00846f2dfac173db3c75e4e"
     },
     {
-      "path": "releases/20261031-3/build/smb-700-C7sanV5b.woff2",
-      "bytes": 323400,
-      "sha256": "d224b2c44a90f54f378f081558c940c9635796a22d5f7a3c11cc2f6c8cb81be5"
+      "path": "releases/20261031-4/build/smb-700-BYOGny77.woff2",
+      "bytes": 325628,
+      "sha256": "fbc28483580ddfc59565e5454470cc7b6baef70d4929c16fa9b9be82ee83077f"
     },
     {
-      "path": "releases/20261031-3/build/smb-800-Dsw718lm.woff2",
-      "bytes": 322996,
-      "sha256": "bb83c5c8c6cea8f91d550b810f4e097ae09db2183e3c797a3e51e8da097888a4"
+      "path": "releases/20261031-4/build/smb-800-etHRGoBO.woff2",
+      "bytes": 325112,
+      "sha256": "30bf78674b0c8736bf73eea24e513d4b5f57f3f186b9f2115592b406beb0f933"
     },
     {
-      "path": "releases/20261031-3/build/zkg-500-B-YdxJ_X.woff2",
-      "bytes": 159452,
-      "sha256": "bde4e13ed346e3a48030f4f24baa990d3600f2a416f9d6f59ef2b55d2bfe8455"
+      "path": "releases/20261031-4/build/zkg-500-C34vsRN3.woff2",
+      "bytes": 160556,
+      "sha256": "d5e3783016192064c4eef45e649a3ee31ad5447e2d5d5e6588a3199a061d40ce"
     },
     {
-      "path": "releases/20261031-3/build/zkg-700-Ccb0BY9s.woff2",
-      "bytes": 160732,
-      "sha256": "a2cf5fdc432c40ae774dfb467f9c6ca497fbaaab124842e7e4aebac48b83152f"
+      "path": "releases/20261031-4/build/zkg-700-BKjA7kNe.woff2",
+      "bytes": 161740,
+      "sha256": "72fdd7d9eebf7b8c9ad9e4065a7e5ac83dadc37bd347e3d21edeaae9cb5eed31"
     },
     {
-      "path": "releases/20261031-3/icons/icon-180.png",
+      "path": "releases/20261031-4/icons/icon-180.png",
       "bytes": 62088,
       "sha256": "8988caa414485f3a412f6f66bfee62e8bfbe863fe75d6f2d5d04756d5ea27813"
     },
     {
-      "path": "releases/20261031-3/icons/icon-192.png",
+      "path": "releases/20261031-4/icons/icon-192.png",
       "bytes": 69690,
       "sha256": "3946dbab5c7f1aa3ee4369c53c7a64396885348ebf6c39b9835be13ab40a69a5"
     },
     {
-      "path": "releases/20261031-3/icons/icon-512.png",
+      "path": "releases/20261031-4/icons/icon-512.png",
       "bytes": 448513,
       "sha256": "64a7ee7d66b50f22b00e8d950134aa7361e216f061d3a4050c460e17327ff2e2"
     },
     {
-      "path": "releases/20261031-3/icons/icon.svg",
+      "path": "releases/20261031-4/icons/icon.svg",
       "bytes": 427,
       "sha256": "bcddd57bc033b76c98ff8fb47b2b230daa29f3c3ae6c73a75a72ad30c8cd0a36"
     },
     {
-      "path": "releases/20261031-3/index.html",
+      "path": "releases/20261031-4/index.html",
       "bytes": 1357,
-      "sha256": "11a1c27c358265b519172ab095590e10b87131476446ff9e9887124c3e1a585a"
+      "sha256": "84ce4d5e319153d3a151f93bfd64db8dadc4020656ed146a4f332043d563f324"
     },
     {
-      "path": "releases/20261031-3/licenses/OFL-ShipporiMinchoB1.txt",
+      "path": "releases/20261031-4/licenses/OFL-ShipporiMinchoB1.txt",
       "bytes": 4399,
       "sha256": "41fba056279be5f45ff9a99e44b7b53897b42732f5806d8e666e0ab49ac6bd38"
     },
     {
-      "path": "releases/20261031-3/licenses/OFL-ZenKakuGothicNew.txt",
+      "path": "releases/20261031-4/licenses/OFL-ZenKakuGothicNew.txt",
       "bytes": 4401,
       "sha256": "0fac78a235c98d640cb06332eb5362c211d86fa03c011df438c35005d22ad2c7"
     },
     {
-      "path": "releases/20261031-3/manifest.webmanifest",
+      "path": "releases/20261031-4/manifest.webmanifest",
       "bytes": 605,
       "sha256": "80c2663ee7ed3c6250e43731a9b93a6f117379302461ef47c101d436bf09ffc7"
     },
     {
-      "path": "releases/20261031-3/og.jpg",
+      "path": "releases/20261031-4/og.jpg",
       "bytes": 222772,
       "sha256": "5fafbb3cf50cb45c463442c83ac88cb061eda1a33237d1670ad52a19c8fe3f9a"
     },
     {
-      "path": "releases/20261031-3/robots.txt",
+      "path": "releases/20261031-4/robots.txt",
       "bytes": 158,
       "sha256": "7465d31fbebc863013bf56722b16c45a027ebb2ee0b0799d29198a381c111ae1"
     }
